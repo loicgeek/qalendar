@@ -4,3 +4,4 @@ import { DefineComponent } from 'vue'
 export let Qalendar: DefineComponent<{ config: any, events: any }, { [key: string]: any }>
 
 export let DatePicker: DefineComponent<{}, {}>
+    
